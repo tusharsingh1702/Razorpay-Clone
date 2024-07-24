@@ -13,8 +13,6 @@ This project is a clone of Razorpay built using Tailwind CSS. It showcases the k
 - [Features](#features)
 - [Technologies](#technologies)
 - [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Installation
 
